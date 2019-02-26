@@ -1,0 +1,6 @@
+//int testvar[55];
+//int number;
+
+int big(void){
+    int test;
+}

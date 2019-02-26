@@ -1,0 +1,13 @@
+void main(void)    /* g _t0 */
+{
+        int e[44];
+        int q;
+        b=b+q;
+
+        if (c==b)
+        {
+           a[car(1)]=3;
+           a[2+1]=3;
+           c=car(4);
+        }
+}
